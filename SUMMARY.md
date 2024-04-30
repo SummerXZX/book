@@ -33,3 +33,8 @@
 * [人事管理](ren-shi-guan-li/README.md)
   * [打卡统计](ren-shi-guan-li/da-ka-tong-ji.md)
   * [统计报表](ren-shi-guan-li/tong-ji-bao-biao.md)
+* [培训管理](pei-xun-guan-li/README.md)
+  * [题库列表](pei-xun-guan-li/ti-ku-lie-biao.md)
+* [康复配置](kang-fu-pei-zhi.md)
+* [小程序配置](xiao-cheng-xu-pei-zhi.md)
+* [通用管理](tong-yong-guan-li.md)
