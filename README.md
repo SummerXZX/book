@@ -8,7 +8,7 @@ description: 用于添加人员、添加门店、部门
 默认进入页面会有一个以机构名称命名的根部门，此部门不可删除
 {% endhint %}
 
-<figure><img src=".gitbook/assets/Pasted image 20240321144120.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/1716347892333 (1).jpg" alt=""><figcaption></figcaption></figure>
 
 #### 添加门店
 
